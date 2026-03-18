@@ -1,0 +1,2 @@
+# Rpi5_Retroarch_CORES_AARCH64
+Cores optimizados
